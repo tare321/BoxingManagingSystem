@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\kubat\OneDrive\Desktop\BoxingManagingSystem\ProjekatOOP\ProjekatOOP\main.cpp(188,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kubat\OneDrive\Desktop\BoxingManagingSystem\ProjekatOOP\ProjekatOOP\main.cpp(650,62): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kubat\OneDrive\Desktop\BoxingManagingSystem\ProjekatOOP\ProjekatOOP\main.cpp(651,70): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kubat\OneDrive\Desktop\BoxingManagingSystem\ProjekatOOP\ProjekatOOP\main.cpp(638,29): warning C4102: 'boracdva': unreferenced label
+C:\Users\kubat\OneDrive\Desktop\BoxingManagingSystem\ProjekatOOP\ProjekatOOP\main.cpp(48): warning C4715: 'dodijeliKategoriju': not all control paths return a value
+C:\Users\kubat\OneDrive\Desktop\BoxingManagingSystem\ProjekatOOP\ProjekatOOP\main.cpp(133): warning C4715: 'dajMuVrijednostBorcevogIDa': not all control paths return a value
+  ProjekatOOP.vcxproj -> C:\Users\kubat\OneDrive\Desktop\BoxingManagingSystem\ProjekatOOP\x64\Debug\ProjekatOOP.exe
